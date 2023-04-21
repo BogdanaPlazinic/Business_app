@@ -53,7 +53,7 @@ Stop the server with **ctrl+c** (on windows) command and install:
     npm install -D tailwindcss postcss autoprefixer
     npx tailwindcss init -p
 
-Run server: 
+Run local server: 
 
     npm run dev
 
@@ -114,7 +114,7 @@ Setting dark mode to trigger a class:
 ## Install Swiper.js
 
 
-    npm i swiper
+    npm install swiper
 
 
 # Prerequisites
