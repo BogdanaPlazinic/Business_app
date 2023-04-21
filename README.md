@@ -15,6 +15,7 @@ Technology used in this project: **ReactJS, Vite, Tailwind, Swiper.js**.
 **Live demo:** https://business-app-demo.netlify.app
 
 **Desktop view:**
+![business_app desktop_view](https://user-images.githubusercontent.com/117298517/233653700-53f77ff7-ae8d-4a23-937f-5f7e89ba174b.gif)
 
 **Mobile view:**
 
