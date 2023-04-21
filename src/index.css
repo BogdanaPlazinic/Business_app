@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    scroll-behavior: smooth;
+}
+
+/* Backgrounds colors */
+
+.primary-bg {
+    background: #F8F5FF;
+}
+.primary-dark-bg {
+    background: #956AE1;
+}
+.lightMode-bg {
+    background: #F8F5FF;
+}
+.shadow-hero-el {
+    background: #C19EFF;
+}
+.play-bg {
+    background: #C4A3FD;
+}
+
+
+/* Gradient */
+
+.hero-gradient {
+    background: linear-gradient(0deg, rgba(193,158,255,0.6643032212885154) 0%, rgba(193,158,255,0) 100%);
+}
+.hero-gradient2 {
+    background: linear-gradient(180deg, rgba(193,158,255,0.6643032212885154) 0%, rgba(193,158,255,0) 100%);
+}
+
+
+/* Font colors */
+
+.lightMode-clr {
+    color: #51495F;
+}
+.neutral-clr {
+    color: #fff;
+}
+
+.swiper {
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  list-style: none;
+  padding: 0;
+  z-index: 1;
+  display: block;
+}
+.prev {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+    border-radius: 9999px;
+    cursor: pointer;
+}
+.next {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+    border-radius: 9999px;
+    cursor: pointer;
+}
+
